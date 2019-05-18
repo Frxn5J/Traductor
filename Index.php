@@ -13,7 +13,7 @@
     </head>
     <body>
         <center>
-            <form action="" method="post">
+            <form action="trd.php" method="post">
             <h1>TRADUCTOR ESPAÑOL ESPAÑOL</h1>
             <textarea name="texto" cols="50" rows="30"></textarea><br><br>
             <input type="submit" value="Traducir">
